@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+venv/
+.venv/
+.venv-1/
+.env
+.env.*
+node_modules/
+dist/
+.vite/
