@@ -1,0 +1,9 @@
+Maya Chen (Vendor): Welcome back, Jordan. Have you and the team reviewed the proposal and product demo?
+Jordan Lee (VP of Operations, Northstar Manufacturing): Yes. Sales Ops liked the searchable call library and the Salesforce workflow.
+Maya: What is still open on your side?
+Jordan: Priya wants the security review completed before she signs off. Our security team can meet next Tuesday.
+Maya: Should I prepare anything for that review?
+Jordan: Please send the data-retention policy, SOC 2 report, and a diagram of the Salesforce integration by tomorrow.
+Maya: Does the team have a decision date in mind?
+Jordan: We will finish the review next week, then make our selection by October 9.
+Maya: Understood. I will send the security packet today and hold time for Tuesday's review.

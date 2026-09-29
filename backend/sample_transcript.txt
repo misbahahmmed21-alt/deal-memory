@@ -1,0 +1,20 @@
+Maya Chen (Vendor): Thanks for meeting, Jordan. Could you describe what prompted you to look at sales call tools?
+Jordan Lee (VP of Operations, Northstar Manufacturing): Our reps write notes after calls, and a lot of customer details never make it into Salesforce.
+Maya: How is that affecting the team?
+Jordan: Managers spend about six hours a week reconciling forecasts, and reps miss follow-ups when calls get busy.
+Maya: What would you most want a new system to improve?
+Jordan: Accurate CRM updates, searchable call notes, and reminders for agreed actions are the priorities.
+Maya: How large is the group that would use it initially?
+Jordan: Forty-two account executives and eight sales managers, all in our North American team.
+Maya: Have you set aside funding for this project?
+Jordan: We have an annual budget of forty-five to sixty thousand dollars; Priya Nair, our CFO, has approved that range.
+Maya: Who will make the final selection?
+Jordan: I own the evaluation and recommendation. Priya signs the contract, but she asked me to choose the solution with Sales Ops.
+Maya: Are you comparing any other products?
+Jordan: Yes, we are looking at HubSpot's conversation tools and Gong. We have not selected a front-runner.
+Maya: Is there a target date for getting started?
+Jordan: We want the system live by January 15, 2027, before our February sales kickoff and annual audit preparation.
+Maya: What would you need from us to keep the evaluation moving?
+Jordan: Send a proposal with two pricing options by Friday. I will return our security questionnaire and sample call recordings.
+Jordan: Let's schedule a product and security review with Priya and Sales Ops for October 6, then choose a vendor by October 9.
+Maya: I'll include Salesforce integration, searchable calls, and follow-up automation in both proposal options.
