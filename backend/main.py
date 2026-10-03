@@ -34,7 +34,8 @@ app = FastAPI(title="Deal Memory API")
 frontend_origins = [
     origin.strip()
     for origin in os.environ.get(
-        "FRONTEND_ORIGINS", "http://localhost:5173,http://localhost:3000"
+        "FRONTEND_ORIGINS",
+        "http://localhost:5173,http://localhost:5174,http://localhost:3000",
     ).split(",")
     if origin.strip()
 ]
